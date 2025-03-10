@@ -9,8 +9,10 @@ This data jobs salary dashboard was created by Luke Barousse for his YouTube cha
 ![Salary_Dashboard](https://github.com/user-attachments/assets/3a4c7979-6185-4b40-a116-14c5630e1446)
 
 ## Salary Analysis
-Like the previous one this analysis project also created by him. Here you can discover all the major skills a data job required. You can do your comparison on skills and salary range. 
+Like the previous one this analysis project also created by him. Here you can discover all the major skills a data job required. You can do your comparison on skills and salary range.   
+
 [Checkout my work here!](./Project%202%20-%20Analysis/)
+
 
 
 ![Salary_Analysis_1](https://github.com/user-attachments/assets/23e77d63-c92d-4ec0-bf34-5fb3d2acba97)
